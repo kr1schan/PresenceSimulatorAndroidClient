@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Presence Simulator Android Client</string>
+    <string name="LastFetchedLabel">Last Update: </string>
+    <string name="Latitude">Latitude: </string>
+    <string name="Longitude">Longitude: </string>
+    <string name="Fetch">Fetch</string>
+    <string name="Stop">Disconnect</string>
+    <string name="DefaultIP">192.168.1.3:9124</string>
+    <string name="BroadcastPort">9123</string>
+    <string name="Disconnect">Disconnect</string>
+    <string name="AvailableUsers">Available location sources (tap to connect):</string>
+    <string name="NoUsers">No location sources availible</string>
+    <string name="SelectedUserNameLabel">Location source: </string>
+    <string name="Empty"/>
+    <string name="Never">never</string>
+    <string name="Unknown">unknown</string>
+    <string name="Broadcast">Searching for location sources  </string>
+	<string name="Lat">Lat: </string>
+	<string name="Lng">Lng: </string>
+</resources>
